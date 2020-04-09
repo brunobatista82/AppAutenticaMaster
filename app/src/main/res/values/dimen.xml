@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titulo">30sp</dimen>
+    <dimen name="largura">300sp</dimen>
+    <dimen name="textoBotao">18sp</dimen>
+    <dimen name="paddingEditText">18sp</dimen>
+</resources>
